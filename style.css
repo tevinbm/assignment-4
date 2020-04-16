@@ -10,7 +10,7 @@
 #main-header{
     font:Arial, Helvetica, sans-serif;
     color:white;
-    width:80%;
+    /* width:80%; */
     margin:auto;
     padding:15px;
     display:inline;
@@ -91,4 +91,10 @@ a:hover{
     margin-bottom:30px;
     text-align:center;
 
+}
+
+#table{
+    border:"10"; 
+    padding:"10";
+    margin:"0";
 }
